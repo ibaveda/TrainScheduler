@@ -8,3 +8,11 @@
 + Next Train Arrival
 + Minutes Away
 
+### The idea was to use momentjs to display time and add the minutes from real time to next arrival time based on frequency minutes.
+
+### Technologies/Libraries used:
+
++ Bootstrap
++ jQuery
++ Moment JS
++ Firebase
