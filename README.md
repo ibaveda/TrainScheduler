@@ -17,4 +17,4 @@
 + Moment JS
 + Firebase
 
-[Here's a link to it] (https://ibaveda.github.io/TrainScheduler/)
+### here's a link to it <https://ibaveda.github.io/TrainScheduler/>
